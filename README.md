@@ -40,7 +40,6 @@ src/
 │   │   └── NavBar.vue            # Navigation bar component
 │   └── ui/
 │       ├── BaseButton.vue        # Reusable button component
-│       └── BaseInput.vue         # Reusable input component
 ├── views/
 │   └── HomeView.vue              # Main application view
 └── styles/
